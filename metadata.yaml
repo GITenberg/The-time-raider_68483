@@ -1,0 +1,30 @@
+_repo: The-time-raider_68483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Blade, Alexander
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2022-07-09'
+identifiers:
+  gutenberg: '68483'
+language: en
+pgterms:marc905: 20220521115645hamilton
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Popular Fiction Publishing Company,1927,copyright
+  1928.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The time-raider
+url: http://www.gutenberg.org/ebooks/68483
