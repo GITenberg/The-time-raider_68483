@@ -1,5 +1,8 @@
 _repo: The-time-raider_68483
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68483-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68483#The-time-raider
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68483'
